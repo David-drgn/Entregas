@@ -43,7 +43,7 @@
 |-------|-----------|----------|
 | 1 | Declara função passando parâmetro | 2 instruções |
 | 2 | Cria a variável i atribuindo um valor igual a 1 | 2 instruções | 
-| 3 | Cria while que válida o valor de i com k e válida a busca de k no item de arry i| 5 |
+| 3 | Cria while que válida o valor de i com k e válida a busca de k no item de array i| 5 |
 | 4 | Se o item de array de “a” for igual a “k” | 3 | 
 | 5 | Então ele devolve valor de “i”. | 2 |
 | 7 | Incrementa +13 a variável i | 3 |
