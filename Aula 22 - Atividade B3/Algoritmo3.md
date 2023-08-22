@@ -1,6 +1,8 @@
----
+***
+
 # ALGORITMO 3
----
+
+***
 
 1.                 Esq = 1
 1.                 Dir = 1
@@ -30,4 +32,4 @@
 | ?     | Dir = meio + 1                                                    | px - 1     |
 | T     | T + T + Tpx + Tpx + Tpx + T + Tpx + 2t(px - 1) + Tpx + 2t(px - 1) | -1T + 8Tpx |
 
----
+***
